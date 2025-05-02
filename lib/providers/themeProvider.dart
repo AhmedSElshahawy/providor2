@@ -7,7 +7,7 @@ class ThemeProvider with ChangeNotifier {
   bool get isSelected => _isSelected;
 
   ThemeData _themeData = lightmode;
-
+iuzshfiuzshuifhzs
   ThemeData get getTheme => _themeData;
 
   void toggleTheme() {
